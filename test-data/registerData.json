@@ -1,0 +1,14 @@
+{
+  "username": "userTS",
+  "email": "userTS%SUFFIX%@example.com",
+  "password": "Test@1234",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "phone": "9998887776",
+  "country": "India",
+  "city": "Malappuram",
+  "address": "123 Test Lane",
+  "state": "Kerala",
+  "postalCode": "676501",
+  "offers": true
+}

@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "username": "userTS%SUFFIX%", 
+    "password": "Test@1234",
+    "remember": true
+  },
+  "invalid": {
+    "username": "invalid@example.com",
+    "password": "WrongPass",
+    "remember": false
+  }
+}
+
+
